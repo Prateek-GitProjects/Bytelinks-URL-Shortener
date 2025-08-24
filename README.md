@@ -47,7 +47,7 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 ![Contact Page](/screenshots/Home-Buttons.gif)
 
 ### 📱 Responsive Design
-![Responsive Design](Screenshots/Responsive.png)
+![Responsive Design](/screenshots/Responsive.png)
 
 ---
 

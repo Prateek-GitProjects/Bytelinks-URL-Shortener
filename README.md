@@ -43,7 +43,7 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 ### ℹ️ About Page
 ![About Page](/screenshots/About.gif)
 
-### 📩 Home features
+### ✨ Home features
 ![Contact Page](/screenshots/Home-Buttons.gif)
 
 ---

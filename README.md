@@ -1,4 +1,4 @@
-# 🔗 URL Shortener - A MERN Stack Project
+# 🔗 URL Shortener 
 
 A sleek and modern **URL Shortener** built with **Next.js, MongoDB, Tailwind CSS, and Framer Motion** 🚀.  
 It allows you to convert long, complex URLs into short, shareable links instantly without any sign-ups or tracking.  

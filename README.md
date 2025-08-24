@@ -1,109 +1,36 @@
-# 🔗 URL Shortener 
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-A sleek and modern **URL Shortener** built with **Next.js, MongoDB, Tailwind CSS, and Framer Motion** 🚀.  
-It allows you to convert long, complex URLs into short, shareable links instantly without any sign-ups or tracking.  
+## Getting Started
 
----
-
-## ✨ Features
-
-- 🔐 **No Signups Required** – Just paste your URL and shorten it instantly.  
-- ⚡ **Fast & Secure** – Built with **Next.js API Routes** and MongoDB backend.  
-- 🎨 **Beautiful UI** – Styled with **Tailwind CSS** and smooth **Framer Motion animations**.  
-- 📱 **Responsive Design** – Works seamlessly on desktop and mobile.  
-- 🎉 **Custom Short URLs** – Choose your own alias for the short link.  
-- 🌌 **Animated Backgrounds** – Floating shapes and motion effects for a modern look.  
-- 📊 **Download Counter** – Live counter animation just like [TopperWorld](https://topperworld.in).  
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-- [Next.js 14](https://nextjs.org/)  
-- [React.js](https://react.dev/)  
-- [Tailwind CSS](https://tailwindcss.com/)  
-- [Framer Motion](https://www.framer.com/motion/)  
-
-**Backend:**  
-- [Node.js](https://nodejs.org/)  
-- [MongoDB](https://www.mongodb.com/)  
-- [Mongoose](https://mongoosejs.com/)  
-
----
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](./public/screenshots/home.png)
-
-### ✂️ URL Shortener Page
-![Shorten Page](./public/screenshots/shorten.png)
-
-### ℹ️ About Page
-![About Page](./public/screenshots/about.png)
-
-### 📩 Contact Page
-![Contact Page](./public/screenshots/contact.png)
-
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally:
+First, run the development server:
 
 ```bash
-1️⃣ Clone the repository
-git clone https://github.com/your-username/url-shortener.git
-
-2️⃣ Move into the project directory
-cd url-shortener
-
-3️⃣ Install dependencies
-npm install
-
-4️⃣ Setup environment variables
-touch .env.local
-
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-Inside .env.local, add:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-```
-MONGO_URI=mongodb://localhost:27017/urlshortener
-NEXT_PUBLIC_HOST=http://localhost:3000
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-```
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-Your app will be live at 👉 http://localhost:3000
+## Learn More
 
-## 🚀 Deployment
+To learn more about Next.js, take a look at the following resources:
 
-You can deploy this project easily on Vercel
- (recommended):
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Push your project to GitHub.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-Go to Vercel and import your repo.
+## Deploy on Vercel
 
-Add environment variables (MONGO_URI & NEXT_PUBLIC_HOST).
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Deploy 🎉
-
-## 🤝 Contributing
-
-Contributions are always welcome!
-
-Fork the repo 🍴
-
-Create your feature branch 🌱
-
-Commit your changes 📝
-
-Push to the branch 🚀
-
-Open a Pull Request 🎉
-
-## 📜 License
-
-This project is licensed under the MIT License.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

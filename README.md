@@ -35,16 +35,16 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./public/screenshots/Home.gif)
+![Home Page](/screenshots/Home.gif)
 
 ### ✂️ URL Shortener Page
-![Shorten Page](./public/screenshots/shorturl.gif)
+![Shorten Page](/screenshots/shorturl.gif)
 
 ### ℹ️ About Page
-![About Page](./public/screenshots/About.gif)
+![About Page](/screenshots/About.gif)
 
 ### 📩 Home features
-![Contact Page](./public/screenshots/Home-Buttons.gif)
+![Contact Page](/screenshots/Home-Buttons.gif)
 
 ---
 

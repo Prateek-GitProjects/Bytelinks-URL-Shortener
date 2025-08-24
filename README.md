@@ -53,14 +53,14 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 Follow these steps to run the project locally:
 
 ```bash
-# 1️⃣ Clone the repository
+1️⃣ Clone the repository
 git clone https://github.com/your-username/url-shortener.git
 
-# 2️⃣ Move into the project directory
+2️⃣ Move into the project directory
 cd url-shortener
 
-# 3️⃣ Install dependencies
+3️⃣ Install dependencies
 npm install
 
-# 4️⃣ Setup environment variables
+4️⃣ Setup environment variables
 touch .env.local

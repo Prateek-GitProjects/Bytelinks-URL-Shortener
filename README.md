@@ -64,3 +64,46 @@ npm install
 
 4️⃣ Setup environment variables
 touch .env.local
+
+```
+
+Inside .env.local, add:
+
+```
+MONGO_URI=mongodb://localhost:27017/urlshortener
+NEXT_PUBLIC_HOST=http://localhost:3000
+
+```
+
+Your app will be live at 👉 http://localhost:3000
+
+## 🚀 Deployment
+
+You can deploy this project easily on Vercel
+ (recommended):
+
+Push your project to GitHub.
+
+Go to Vercel and import your repo.
+
+Add environment variables (MONGO_URI & NEXT_PUBLIC_HOST).
+
+Deploy 🎉
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+
+Fork the repo 🍴
+
+Create your feature branch 🌱
+
+Commit your changes 📝
+
+Push to the branch 🚀
+
+Open a Pull Request 🎉
+
+## 📜 License
+
+This project is licensed under the MIT License.

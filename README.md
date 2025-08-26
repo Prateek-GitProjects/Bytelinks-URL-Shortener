@@ -12,8 +12,7 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 - 🎨 **Beautiful UI** – Styled with **Tailwind CSS** and smooth **Framer Motion animations**.  
 - 📱 **Responsive Design** – Works seamlessly on desktop and mobile.  
 - 🎉 **Custom Short URLs** – Choose your own alias for the short link.  
-- 🌌 **Animated Backgrounds** – Floating shapes and motion effects for a modern look.  
-- 📊 **Download Counter** – Live counter animation just like [TopperWorld](https://topperworld.in).  
+- 🌌 **Animated Backgrounds** – Floating shapes and motion effects for a modern look.   
 
 ---
 

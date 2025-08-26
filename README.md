@@ -8,11 +8,9 @@ It allows you to convert long, complex URLs into short, shareable links instantl
 ## ✨ Features
 
 - 🔐 **No Signups Required** – Just paste your URL and shorten it instantly.  
-- ⚡ **Fast & Secure** – Built with **Next.js API Routes** and MongoDB backend.  
-- 🎨 **Beautiful UI** – Styled with **Tailwind CSS** and smooth **Framer Motion animations**.  
+- ⚡ **Fast & Secure** – Built with **Next.js API Routes** and MongoDB backend. 
 - 📱 **Responsive Design** – Works seamlessly on desktop and mobile.  
-- 🎉 **Custom Short URLs** – Choose your own alias for the short link.  
-- 🌌 **Animated Backgrounds** – Floating shapes and motion effects for a modern look.   
+- 🎉 **Custom Short URLs** – Choose your own alias for the short link. 
 
 ---
 

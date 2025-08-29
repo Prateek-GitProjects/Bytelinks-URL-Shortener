@@ -85,11 +85,11 @@ You can deploy this project easily on Vercel
 
 Push your project to GitHub.
 
-Go to Vercel and import your repo.
-
 Add environment variables (MONGO_URI & NEXT_PUBLIC_HOST).
 
 Deploy 🎉
+
+Visit our live app: https://bytelinks-url-shortener.vercel.app
 
 ## 🤝 Contributing
 
